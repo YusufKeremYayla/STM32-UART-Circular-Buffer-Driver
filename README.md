@@ -15,8 +15,6 @@ Instead of relying on standard blocking HAL functions, this driver uses a custom
 ## 🧠 System Architecture & Data Flow
 <img width="2816" height="1536" alt="Gemini_Generated_Image_nfh1bdnfh1bdnfh1" src="https://github.com/user-attachments/assets/e035d0f8-4326-46cf-b116-f173a4c7001d" />
 
-*(Buraya resmi ekleyeceğiz, nasıl yapılacağını aşağıda anlattım)*
-
 ## 🛠️ Hardware Setup
 *   **MCU:** STM32F407VGT6 (Discovery Kit)
 *   **UART Interface:** USART3 (PB10 = TX, PB11 = RX)
